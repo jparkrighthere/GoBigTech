@@ -38,7 +38,7 @@
 </p>
 
 ### 2. **채용 공고 확인** 
-#### 원하는 채용 공고의 상세 정보를 확인 가능한 클릭 이동
+#### 원하는 채용 공고의 상세 정보를 확인 가능한 클릭 이동
 <p align="center">
 <img src = https://github.com/user-attachments/assets/50eac65e-9e7f-4bd7-ac59-e3801e34c647 width ="400" height="800" />
 </p>
