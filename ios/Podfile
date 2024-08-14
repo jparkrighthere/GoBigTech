@@ -22,7 +22,7 @@ target 'GoBigTechApp' do
     # An absolute path to your application root.
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
-
+  
   target 'GoBigTechAppTests' do
     inherit! :complete
     # Pods for testing
@@ -37,4 +37,7 @@ target 'GoBigTechApp' do
       # :ccache_enabled => true
     )
   end
+  pod 'KakaoSDK'
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+  pod 'react-native-safe-area-context', :path => '../node_modules/react-native-safe-area-context'
 end
