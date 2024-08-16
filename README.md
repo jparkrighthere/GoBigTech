@@ -34,23 +34,23 @@
 ### 1. **채용 공고 목록** 
 #### 국내 주요 빅테크 기업들의 채용 공고를 마감일 기준으로 한눈에 볼 수 있는 목록 제공
 <p align="center">
-<img src= https://github.com/user-attachments/assets/ea421d36-d6aa-4981-8e76-9bb3e3ed389a width ="400" height="1000" />
+<img src= https://github.com/user-attachments/assets/ea421d36-d6aa-4981-8e76-9bb3e3ed389a width ="400" height="900" />
 </p>
 
 ### 2. **채용 공고 확인** 
 #### 원하는 채용 공고의 상세 정보를 확인 가능한 클릭 이동
 <p align="center">
-<img src = https://github.com/user-attachments/assets/50eac65e-9e7f-4bd7-ac59-e3801e34c647 width ="400" height="1000" />
+<img src = https://github.com/user-attachments/assets/50eac65e-9e7f-4bd7-ac59-e3801e34c647 width ="400" height="900" />
 </p>
 
 ### 3. **검색 기능**
 #### 원하는 채용 공고를 손쉽게 검색할 수 있는 기능
 <p align="center">
-<img src= https://github.com/user-attachments/assets/18540023-cc5a-451b-bb4f-2f996c4137cb width ="400" height="1000"/>
+<img src= https://github.com/user-attachments/assets/18540023-cc5a-451b-bb4f-2f996c4137cb width ="400" height="900"/>
 </p>
 
 ### 4. **공고 저장**
 #### 나중에 지원하기 위해 공고를 저장할 수 있는 기능
 <p align="center">
-<img src= https://github.com/user-attachments/assets/4a942464-3ef6-4bff-b263-aed2ba7f6e1b width ="400" height="1000"/>
+<img src= https://github.com/user-attachments/assets/4a942464-3ef6-4bff-b263-aed2ba7f6e1b width ="400" height="900"/>
 </p>
