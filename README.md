@@ -13,7 +13,7 @@
 
 ## 💻 개발 환경
 - Language : TypeScript
-- Front : React, React Native, styled-components
+- Front : React, React Native
 - Back-end : Node.js, Express, Mongo DB, axios, cheerios, puppeteer
 - 버전 및 이슈관리 : Github
 - 서비스 배포 환경 : 배포 예정
